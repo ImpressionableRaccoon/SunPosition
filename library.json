@@ -1,0 +1,16 @@
+{
+    "name": "SunPosition",
+    "keywords": "sun, azimuth",
+    "description": "The SunPosition abstract class for calculating sun azimuth and elevation in Arduino sketches.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ImpressionableRaccoon/SunPosition"
+    },
+    "version": "1.0.0",
+    "authors": {
+      "name": "Vadim Vladimirov",
+      "url": "https://github.com/ImpressionableRaccoon"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
