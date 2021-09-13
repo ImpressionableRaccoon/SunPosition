@@ -10,6 +10,7 @@
 class SunPosition
 {
     public:
+        SunPosition();
         SunPosition(int year, int month, int day, int hour, int minute, int second, float latitude, float longitude);
         float azimuth;
         float elevation;
